@@ -1,1 +1,1 @@
-# ReactJS-Spring-Boot-CRUD-Full-Stack-App - Course on YouTube
+# ReactJS-Spring-Boot-CRUD-Full-Stack-App
